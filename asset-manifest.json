@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Studio-Graphene_Assign/static/css/main.6bb9bfa7.css",
+    "main.js": "/Studio-Graphene_Assign/static/js/main.8eb58541.js",
+    "static/js/787.471d5de2.chunk.js": "/Studio-Graphene_Assign/static/js/787.471d5de2.chunk.js",
+    "static/media/boy.svg": "/Studio-Graphene_Assign/static/media/boy.ed82997ef6d83b46076000bae7842ea9.svg",
+    "static/media/bgi.svg": "/Studio-Graphene_Assign/static/media/bgi.74298f220a92fa80bb5a.svg",
+    "static/media/Syne-ExtraBold.ttf": "/Studio-Graphene_Assign/static/media/Syne-ExtraBold.ec26051cf662d73d9c4d.ttf",
+    "static/media/car.svg": "/Studio-Graphene_Assign/static/media/car.fe21a9c0285a02a6258b93e3e37117f4.svg",
+    "static/media/logo.svg": "/Studio-Graphene_Assign/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/insta.svg": "/Studio-Graphene_Assign/static/media/insta.9dc97022a483d8abbeefbc1bc1245db7.svg",
+    "static/media/slick.svg": "/Studio-Graphene_Assign/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Studio-Graphene_Assign/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Studio-Graphene_Assign/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/star.svg": "/Studio-Graphene_Assign/static/media/star.3b4b3c7e2128fc04c6459460b49894a0.svg",
+    "static/media/slick.woff": "/Studio-Graphene_Assign/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/linkedIn.svg": "/Studio-Graphene_Assign/static/media/linkedIn.0d39236bce38f18076034ae3f2204d3d.svg",
+    "static/media/tw.svg": "/Studio-Graphene_Assign/static/media/tw.edc609125b0816944ae3b738bc15d94c.svg",
+    "index.html": "/Studio-Graphene_Assign/index.html",
+    "static/media/facebook.svg": "/Studio-Graphene_Assign/static/media/facebook.36d756a6a4548d8ad11123cf2306a859.svg",
+    "static/media/startwo.svg": "/Studio-Graphene_Assign/static/media/startwo.e1d2e0cb5ae1c6418b845076842cde6b.svg",
+    "static/media/starone.svg": "/Studio-Graphene_Assign/static/media/starone.01f85a453831379688e7a452bc89f898.svg",
+    "main.6bb9bfa7.css.map": "/Studio-Graphene_Assign/static/css/main.6bb9bfa7.css.map",
+    "main.8eb58541.js.map": "/Studio-Graphene_Assign/static/js/main.8eb58541.js.map",
+    "787.471d5de2.chunk.js.map": "/Studio-Graphene_Assign/static/js/787.471d5de2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bb9bfa7.css",
+    "static/js/main.8eb58541.js"
+  ]
+}
